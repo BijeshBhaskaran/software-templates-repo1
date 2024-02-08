@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: react-ssr-template
   title: React SSR Template
-  description: Create a website powered with Next.js
+  description: Create a website powered with Next.js typo
   tags:
     - recommended
     - react
