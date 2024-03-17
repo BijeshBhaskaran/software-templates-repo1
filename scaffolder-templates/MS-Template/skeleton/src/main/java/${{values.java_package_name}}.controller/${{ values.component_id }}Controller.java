@@ -12,7 +12,7 @@ import org.springframework.beans.factory.annotation.Value;
 import java.util.List;
 
 @RestController
-public class DemoController {
+public class ${{ values.component_id }}Controller {
 
     @Value("${spring.application.username}")
     String username;
